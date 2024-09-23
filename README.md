@@ -8,7 +8,8 @@
   Lucero Salome Manchay Paredes (202216120)
   José Antonio Mayhua Hinostroza (202218044)
 
-- Breve descripcion del dataset
+- Breve descripcion del dataset:
+
 El archivo "hotel_bookings.csv" contiene 119,390 registros de reservas de hoteles. Incluye detalles como el tipo de hotel, fechas de llegada, número de personas, cancelaciones, tarifas diarias y solicitudes especiales, entre otros datos relacionados con la gestión de reservas y clientes.
 Algunas de las columnas más relevantes son:
 
