@@ -9,8 +9,22 @@
   José Antonio Mayhua Hinostroza (202218044)
 
 - Breve descripcion del dataset
+El archivo "hotel_bookings.csv" contiene 119,390 registros de reservas de hoteles. Incluye detalles como el tipo de hotel, fechas de llegada, número de personas, cancelaciones, tarifas diarias y solicitudes especiales, entre otros datos relacionados con la gestión de reservas y clientes.
+Algunas de las columnas más relevantes son:
 
-
+hotel: Tipo de hotel (City Hotel o Resort Hotel).
+is_canceled: Indicador de cancelación (1 si la reserva fue cancelada, 0 en caso contrario).
+lead_time: Tiempo en días entre la reserva y la llegada.
+arrival_date_year: Año de llegada.
+arrival_date_month: Mes de llegada.
+adults, children, babies: Número de adultos, niños y bebés en la reserva.
+meal: Tipo de régimen alimenticio reservado.
+country: País de origen del cliente.
+market_segment: Segmento de mercado de la reserva.
+previous_cancellations: Número de cancelaciones previas del cliente.
+reserved_room_type, assigned_room_type: Tipo de habitación reservada y asignada.
+adr: Tarifa diaria promedio.
+total_of_special_requests: Número de solicitudes especiales realizadas.
 
 - Conclusiones
  ¿Qué patrones o tendencias se observaron?
