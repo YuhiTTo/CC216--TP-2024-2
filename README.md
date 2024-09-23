@@ -4,14 +4,19 @@
   Realizar un análisis exploratorio de un conjunto de datos (EDA), generando visualizaciones, preparando los datos y extrayendo conclusiones iniciales utilizando R/RStudio como herramienta de software.
 
 - Nombre de los alumnos participantes:
-  Carlos Alejandro Molina Huatuco (U20211G139)
-  Lucero Salome Manchay Paredes (202216120)
-  José Antonio Mayhua Hinostroza (202218044)
+  
+Carlos Alejandro Molina Huatuco (U20211G139)
+  
+Lucero Salome Manchay Paredes (202216120)
+  
+José Antonio Mayhua Hinostroza (202218044)
 
 - Breve descripcion del dataset:
 
 El archivo "hotel_bookings.csv" contiene 119,390 registros de reservas de hoteles. Incluye detalles como el tipo de hotel, fechas de llegada, número de personas, cancelaciones, tarifas diarias y solicitudes especiales, entre otros datos relacionados con la gestión de reservas y clientes.
+
 Algunas de las columnas más relevantes son:
+
 
 hotel: Tipo de hotel (City Hotel o Resort Hotel).
 is_canceled: Indicador de cancelación (1 si la reserva fue cancelada, 0 en caso contrario).
